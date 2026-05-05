@@ -1,0 +1,407 @@
+{
+  "simulation_summary": {
+    "total_steps": 1000,
+    "total_loops": 0,
+    "final_phase": "inorganic",
+    "elapsed_seconds": 0,
+    "is_terminal": false
+  },
+  "recreation_stats": {
+    "total_recreations": 0
+  },
+  "pathway_balance": {
+    "dominant": "nihility",
+    "influences": {
+      "erudition": 0.3332365401961819,
+      "remembrance": 0.3332365401961818,
+      "nihility": 0.33352691960763625
+    },
+    "conflict_count": 1000,
+    "is_balanced": true
+  },
+  "final_world_state": {
+    "total_population": 0,
+    "total_entropy": 0.6666666666666666,
+    "collapse_degree": 1.0,
+    "fallen_cities": [
+      "okhema",
+      "castrum_kremnos",
+      "aedyria",
+      "janusopolis"
+    ]
+  },
+  "titan_states": {
+    "kephale": {
+      "titan_id": "kephale",
+      "name": "刻法勒",
+      "is_alive": true,
+      "is_corrupted": false,
+      "has_fallen": false,
+      "divine_power": 1.0,
+      "spark_intact": true,
+      "spark_holder": null
+    },
+    "nicadore": {
+      "titan_id": "nicadore",
+      "name": "尼卡多利",
+      "is_alive": true,
+      "is_corrupted": false,
+      "has_fallen": false,
+      "divine_power": 1.0,
+      "spark_intact": true,
+      "spark_holder": null
+    },
+    "aquila": {
+      "titan_id": "aquila",
+      "name": "艾格勒",
+      "is_alive": true,
+      "is_corrupted": false,
+      "has_fallen": false,
+      "divine_power": 1.0,
+      "spark_intact": true,
+      "spark_holder": null
+    },
+    "oroleus": {
+      "titan_id": "oroleus",
+      "name": "欧洛尼斯",
+      "is_alive": true,
+      "is_corrupted": false,
+      "has_fallen": false,
+      "divine_power": 1.0,
+      "spark_intact": true,
+      "spark_holder": null
+    },
+    "phagousa": {
+      "titan_id": "phagousa",
+      "name": "法吉娜",
+      "is_alive": true,
+      "is_corrupted": false,
+      "has_fallen": false,
+      "divine_power": 1.0,
+      "spark_intact": true,
+      "spark_holder": null
+    },
+    "talanton": {
+      "titan_id": "talanton",
+      "name": "塔兰顿",
+      "is_alive": true,
+      "is_corrupted": false,
+      "has_fallen": false,
+      "divine_power": 1.0,
+      "spark_intact": true,
+      "spark_holder": null
+    },
+    "tholos": {
+      "titan_id": "tholos",
+      "name": "瑟希斯",
+      "is_alive": true,
+      "is_corrupted": false,
+      "has_fallen": false,
+      "divine_power": 1.0,
+      "spark_intact": true,
+      "spark_holder": null
+    },
+    "georios": {
+      "titan_id": "georios",
+      "name": "吉奥里亚",
+      "is_alive": true,
+      "is_corrupted": false,
+      "has_fallen": false,
+      "divine_power": 1.0,
+      "spark_intact": true,
+      "spark_holder": null
+    },
+    "mnestia": {
+      "titan_id": "mnestia",
+      "name": "墨涅塔",
+      "is_alive": true,
+      "is_corrupted": false,
+      "has_fallen": false,
+      "divine_power": 1.0,
+      "spark_intact": true,
+      "spark_holder": null
+    },
+    " Zagreus": {
+      "titan_id": " Zagreus",
+      "name": "扎格列斯",
+      "is_alive": true,
+      "is_corrupted": false,
+      "has_fallen": false,
+      "divine_power": 1.0,
+      "spark_intact": true,
+      "spark_holder": null
+    },
+    "cipher": {
+      "titan_id": "cipher",
+      "name": "赛飞儿",
+      "is_alive": true,
+      "is_corrupted": false,
+      "has_fallen": false,
+      "divine_power": 1.0,
+      "spark_intact": true,
+      "spark_holder": null
+    },
+    "thanatos": {
+      "titan_id": "thanatos",
+      "name": "塔娜托斯",
+      "is_alive": true,
+      "is_corrupted": false,
+      "has_fallen": false,
+      "divine_power": 1.0,
+      "spark_intact": true,
+      "spark_holder": null
+    }
+  },
+  "special_entities": {
+    "NeiKos496": {
+      "entity_id": "NeiKos496",
+      "name": "白厄",
+      "type": "destruction_signal",
+      "is_active": false,
+      "position": [
+        50,
+        50
+      ]
+    },
+    "PhiLia093": {
+      "entity_id": "PhiLia093",
+      "name": "昔涟",
+      "type": "memory_signal",
+      "is_active": false,
+      "position": [
+        50,
+        50
+      ]
+    },
+    "Trailblazer": {
+      "entity_id": "Trailblazer",
+      "name": "开拓者",
+      "type": "external_variable",
+      "is_active": false,
+      "position": [
+        50,
+        50
+      ]
+    }
+  },
+  "factor_states": {
+    "creation": {
+      "potential_mean": 0.0032824077643454075,
+      "potential_std": 0.10574714094400406,
+      "golden_blood": 0.0,
+      "memory_trace_norm": 0.0,
+      "activation_history": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "strife": {
+      "potential_mean": 0.023327376693487167,
+      "potential_std": 0.11145941913127899,
+      "golden_blood": 0.0,
+      "memory_trace_norm": 0.0,
+      "activation_history": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "sky": {
+      "potential_mean": -0.006561337970197201,
+      "potential_std": 0.1080201044678688,
+      "golden_blood": 0.0,
+      "memory_trace_norm": 0.0,
+      "activation_history": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "time": {
+      "potential_mean": -0.007997161708772182,
+      "potential_std": 0.08184546232223511,
+      "golden_blood": 0.0,
+      "memory_trace_norm": 0.0,
+      "activation_history": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "ocean": {
+      "potential_mean": 0.0007854660507291555,
+      "potential_std": 0.10024372488260269,
+      "golden_blood": 0.0,
+      "memory_trace_norm": 0.0,
+      "activation_history": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "law": {
+      "potential_mean": 0.008775496855378151,
+      "potential_std": 0.09844311326742172,
+      "golden_blood": 0.0,
+      "memory_trace_norm": 0.0,
+      "activation_history": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "reason": {
+      "potential_mean": 0.007909918203949928,
+      "potential_std": 0.10499183088541031,
+      "golden_blood": 0.0,
+      "memory_trace_norm": 0.0,
+      "activation_history": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "earth": {
+      "potential_mean": 0.007957834750413895,
+      "potential_std": 0.10572709888219833,
+      "golden_blood": 0.0,
+      "memory_trace_norm": 0.0,
+      "activation_history": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "romance": {
+      "potential_mean": -0.0063761449418962,
+      "potential_std": 0.11500882357358932,
+      "golden_blood": 0.0,
+      "memory_trace_norm": 0.0,
+      "activation_history": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "trickery": {
+      "potential_mean": 0.010176477953791618,
+      "potential_std": 0.10343000292778015,
+      "golden_blood": 0.0,
+      "memory_trace_norm": 0.0,
+      "activation_history": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "passage": {
+      "potential_mean": -0.02018357440829277,
+      "potential_std": 0.0841350108385086,
+      "golden_blood": 0.0,
+      "memory_trace_norm": 0.0,
+      "activation_history": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "death": {
+      "potential_mean": -0.010568531230092049,
+      "potential_std": 0.08178948611021042,
+      "golden_blood": 0.0,
+      "memory_trace_norm": 0.0,
+      "activation_history": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ]
+    }
+  },
+  "destruction_equation_final": 0.001413823920302093,
+  "step_logs_count": 10
+}
